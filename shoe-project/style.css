@@ -56,12 +56,14 @@ p{
 h1{
 	color: purple;
 	background-color: black;
+	font-size: 25px;
 }
 img{
 	display: flex;
 	justify-content:space-between;
 	margin-top: 20px;
 	margin: 20px;
+	background-color: green;
 }
 
 
@@ -84,10 +86,16 @@ path{
 
 .section2{
 	display: flex;
+	background-color: gold;
 }
 
 
 span{
 	text-decoration: line-through;
 	color: white;
+}
+
+
+.img{
+	display: flex;
 }
