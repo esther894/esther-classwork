@@ -1,0 +1,224 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	line-height: 1;
+}
+
+img{
+	max-width: 100%;
+}
+ 
+
+.container{
+	max-width: 1100px;
+	margin: 0 auto;
+	padding: 0 auto;
+}
+
+.logo{
+	color: #5c5d5f;
+	font-size: 30px;
+	font-weight: 400;
+}
+.hero-img{
+	width: 350px;
+	max-width: 70%;
+	margin-left: 30rem;
+}
+
+
+.logo span h1{
+	color: #ea9940;
+}
+
+.flex{
+	display: flex;
+	justify-content: space-around;
+}
+
+li{
+	margin-left:70px;
+	list-style-type: none;
+	font-size: 15px;
+	font-weight: 400; 
+}
+
+
+.home{
+	color: #ea9940;
+}
+
+nav{
+	background-color: #f8f9fd;
+	padding: 15px 0;
+	justify-content: space-between;
+}
+
+
+
+
+a{
+	text-decoration: none;
+	color: #6b6b6d;
+	margin:10px;
+	font-size: 15px;
+	justify-content: space-around;
+	margin-left: 40px;
+}
+
+header{
+	background-color: #f8f9fd;
+	align-items: center;
+	justify-content: center;
+	padding: 60px 0;
+	line-height: 1.6;
+}
+
+.hero-text{
+	padding: 40px;
+}
+
+
+.hero-text h1{
+	color: #5c5d5f;
+	font-size: 30px;
+	padding: 10px 0;
+}
+.hero-text h3{
+	color: #b5b6b8;
+	/*padding:20px 0;*/
+}
+
+.hero-text h4{
+	padding: 20px 0;
+	font-size: 14px;
+}
+
+
+.hero-text h4 span{
+	text-decoration: line-through;
+	color: #b5b6b8;
+	margin-left: 10px;
+} 
+
+.hero-text p{
+	color: #b5b6b8;
+}
+
+p{
+	max-width: 300px;
+}
+
+
+
+.bttn{
+	align-items: center;
+}
+
+
+.btn-warning{	
+    background-color: #ea9940;
+	color: #fff;
+	border: none;
+	font-size: 15px;
+}
+
+.info{
+	color:#ea9940; 
+}
+
+
+span{
+	color: #ea9940;
+}
+
+
+main{
+	margin: 150px 0;
+	align-items:center;
+	justify-content: center;
+}
+
+.show1,.show2,.show3{
+	background-color: #f8f9fd;
+	padding: 50px;
+	display: flex;
+}
+
+
+
+.show1-img,.show2-img,.show3-img{
+	width: 300px;
+}
+
+
+
+.show1-text,.show2-text,.showw3-text{
+	line-height: 1.7;
+}
+
+
+.show1{
+	margin-left: 100px;
+}
+
+
+.show2{
+	align-items: center;
+}
+
+.show2-text{
+	padding: 0.35px;
+	line-height: 1.6;
+}
+
+
+.show1,.show3{
+	margin: 0.30px;
+}
+
+
+.container-flex{
+	display: flex;
+	max-width: 400px;
+	font-size: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
